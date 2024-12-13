@@ -1,6 +1,0 @@
-Rank,Model,Live Overall Acc,AST Summary,Python Simple AST,Python Multiple AST,Python Parallel AST,Python Parallel Multiple AST,Irrelevance Detection,Relevance Detection
-1,Qwen2.5-1.5B-Instruct (Prompt),60.55%,60.82%,68.99%,59.21%,56.25%,45.83%,59.20%,80.49%
-2,Qwen2.5-0.5B-Instruct (Prompt),32.07%,38.13%,53.88%,34.43%,56.25%,16.67%,20.34%,85.37%
-3,Llama-3.2-1B-Instruct (Prompt),31.59%,11.69%,31.01%,7.04%,12.50%,4.17%,61.37%,43.90%
-4,Qwen2.5-0.5B-fc-v1-json (FC),25.32%,23.22%,46.51%,17.84%,18.75%,8.33%,25.49%,90.24%
-5,Qwen2.5-0.5B-fc-v2-json (FC),25.14%,25.69%,48.06%,20.54%,18.75%,12.50%,21.03%,95.12%

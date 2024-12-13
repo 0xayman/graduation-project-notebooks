@@ -1,6 +1,0 @@
-Rank,Model,Non_Live Overall Acc,AST Summary,Exec Summary,Simple AST,Python Simple AST,Java Simple AST,JavaScript Simple AST,Multiple AST,Parallel AST,Parallel Multiple AST,Simple Exec,Python Simple Exec,REST Simple Exec,Multiple Exec,Parallel Exec,Parallel Multiple Exec,Irrelevance Detection
-1,Qwen2.5-1.5B-Instruct (Prompt),40.07%,73.81%,0.00%,72.25%,88.75%,56.00%,72.00%,86.00%,70.50%,66.50%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,65.42%
-2,Qwen2.5-0.5B-fc-v2-json (FC),26.21%,57.73%,0.00%,61.42%,80.25%,50.00%,54.00%,73.00%,60.50%,36.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,5.00%
-3,Qwen2.5-0.5B-fc-v1-json (FC),25.19%,56.06%,0.00%,58.75%,78.25%,46.00%,52.00%,63.50%,62.50%,39.50%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,2.50%
-4,Qwen2.5-0.5B-Instruct (Prompt),24.95%,53.23%,0.00%,59.42%,77.25%,45.00%,56.00%,67.50%,53.50%,32.50%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,11.67%
-5,Llama-3.2-1B-Instruct (Prompt),18.70%,27.60%,0.00%,28.92%,53.75%,13.00%,20.00%,32.00%,34.50%,15.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,57.92%
